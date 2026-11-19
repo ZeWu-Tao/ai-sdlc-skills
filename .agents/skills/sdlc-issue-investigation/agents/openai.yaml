@@ -1,0 +1,4 @@
+interface:
+  display_name: "问题排查"
+  short_description: "对照项目记录和运行证据，向用户核对关键线索并说明影响范围"
+  default_prompt: "用 $sdlc-issue-investigation 排查这个现象，核对已有记录和实际证据，需要时向我索要关键线索，汇报后停住。"

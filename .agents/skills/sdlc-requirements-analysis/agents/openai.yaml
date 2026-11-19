@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求分析与确认"
+  short_description: "梳理业务意图并用场景核对需求理解，保留确认依据和未决项"
+  default_prompt: "使用 $sdlc-requirements-analysis 结合需求和原型，以正常和边界案例提交可确认的需求回执。"

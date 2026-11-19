@@ -1,0 +1,4 @@
+interface:
+  display_name: "分批交付规划"
+  short_description: "按可检查的业务结果拆分批次，记录测试判据、边界和放行条件"
+  default_prompt: "使用 $sdlc-delivery-planning 按可独立验证的业务结果拆批，列出各批边界及验收条件。"

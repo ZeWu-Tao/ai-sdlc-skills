@@ -1,0 +1,4 @@
+interface:
+  display_name: "任务上下文恢复"
+  short_description: "保存阶段决定和有效依据，核对任务现况并恢复已有工作上下文"
+  default_prompt: "使用 $sdlc-context-recovery 核对任务入口和有效记录，说明恢复理解、当前授权与未决事项。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "交付范围界定"
+  short_description: "明确功能交付责任、排除项、上下游依赖和验收的具体边界"
+  default_prompt: "使用 $sdlc-scope-definition 列清我方负责的功能及影响范围，标明外部依赖和验收责任。"

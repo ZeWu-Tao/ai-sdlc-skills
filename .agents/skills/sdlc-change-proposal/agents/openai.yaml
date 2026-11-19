@@ -1,0 +1,4 @@
+interface:
+  display_name: "改动方案确认"
+  short_description: "基于排查证据说明改法、影响范围、文档同步与复测并等待确认"
+  default_prompt: "用 $sdlc-change-proposal 根据已有排查结论给我一份改动方案，讲清影响和复测方式，汇报后等我确认。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "变更影响分析"
+  short_description: "分析底层与共享变更的实际影响，比较实现路径及验证条件"
+  default_prompt: "使用 $sdlc-impact-analysis 分析本次变更影响，列出可行路径、依赖顺序和待决定的取舍。"

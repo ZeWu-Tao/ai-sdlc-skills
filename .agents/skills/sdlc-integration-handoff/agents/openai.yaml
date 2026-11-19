@@ -1,0 +1,4 @@
+interface:
+  display_name: "集成对接与交付"
+  short_description: "对照实际实现整理接入说明，跟踪理解确认、联调和交付证据"
+  default_prompt: "使用 $sdlc-integration-handoff 对照实现和批次验收材料生成对接说明，并列出真实联调状态。"

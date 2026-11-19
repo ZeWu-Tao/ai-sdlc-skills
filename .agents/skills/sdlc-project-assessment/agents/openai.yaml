@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目现状评估"
+  short_description: "核对目标项目的已有实现、调用路径及其证据，形成调研结论"
+  default_prompt: "使用 $sdlc-project-assessment 核对需求资料中的线索，给出带证据的项目现状及调研回执。"

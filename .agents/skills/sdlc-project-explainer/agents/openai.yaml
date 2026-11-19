@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目实现讲解"
+  short_description: "先确认你想弄懂哪一块，再对照代码与记录用白话解释实现和改动"
+  default_prompt: "用 $sdlc-project-explainer 讲讲我关心的功能或改动，范围有歧义时先问我。"
