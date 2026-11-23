@@ -1,0 +1,4 @@
+interface:
+  display_name: "熟悉整个项目"
+  short_description: "读懂项目架构和目录约定，用真实文件演示下一次开发应该从哪里入手"
+  default_prompt: "用 $sdlc-project-onboarding 熟悉整个项目，给我看带说明的目录树，再用一个典型功能讲讲你会按什么顺序开发和验证。"
